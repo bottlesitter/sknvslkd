@@ -1,0 +1,45 @@
+body {
+	margin: 0;
+	padding: 0;
+}
+
+.bg {
+	background-color: black;
+}
+
+.text {
+	font-family: sans-serif;
+	color: white;
+	font-size: 15px;
+}
+
+strong {
+	margin-top: 300px;
+	font-family: sans-serif;
+	color: white;
+	border: black;
+	font-size: 30px;
+}
+
+.kartinka {
+	margin-top: -90px;
+	filter: brightness(0.5);
+	text-align: center;
+	position: relative;
+}
+
+span {
+	position: absolute;
+	margin: 0;
+	padding: 35px;
+}
+
+.vopros {
+	margin-top: 70px;
+	padding-left: 200px;
+}
+
+.kartinka2 {
+	margin-top: -170px;
+	padding-left: 10px;
+}
